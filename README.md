@@ -1,3 +1,19 @@
+# KoGPT2 문장생성기
+
+![](result.png)
+
+## Run
+
+```
+opyrator launch-ui main:generate_text
+```
+
+## Dependency
+
+- Python 3.6+
+- opyrator
+- transformers
+- torch
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
